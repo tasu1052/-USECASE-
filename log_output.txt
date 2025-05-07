@@ -1,3 +1,4 @@
+메인 브랜치
 github 주소: https://github.com/tasu1052/-USECASE-
 [tasu1052] Sun May 4 21:21:15 2025 +0900 Merge pull request #6 from tasu1052/meeting ecc63b2
 [yumzen] Sun May 4 21:04:38 2025 +0900 requirement list 작성 318bcf5
@@ -8,3 +9,58 @@ github 주소: https://github.com/tasu1052/-USECASE-
 [Kim Taesu] Fri May 2 21:29:25 2025 +0900 Update ReadMe.md 978d500
 [Jieun Yeom] Fri May 2 20:06:30 2025 +0900 Create pull_request_template.md bc4b0d9
 [Kim Taesu] Fri May 2 19:23:29 2025 +0900 Create ReadMe.md 5711b5e
+
+[김태수]
+[Kim Taesu] Tue May 6 17:59:25 2025 +0900 Update UseCase Diagram.png 8d973f5
+[Kim Taesu] Tue May 6 17:57:30 2025 +0900 Create UseCase Diagram.png 973a33f
+[Kim Taesu] Tue May 6 16:22:55 2025 +0900 Update UseCase Descriptions.md e59abea
+[Kim Taesu] Mon May 5 15:48:53 2025 +0900 Create UseCase Descriptions.md 87b95ee
+[Kim Taesu] Sat May 3 20:22:56 2025 +0900 Update ReadMe.md 808b27d
+[Kim Taesu] Fri May 2 21:42:30 2025 +0900 Update ReadMe.md 16679bd
+[Kim Taesu] Fri May 2 21:30:16 2025 +0900 Merge branch 'main' of https://github.com/tasu1052/-USECASE- 2f9c704
+[Kim Taesu] Fri May 2 21:29:25 2025 +0900 Update ReadMe.md 978d500
+[Jieun Yeom] Fri May 2 20:06:30 2025 +0900 Create pull_request_template.md bc4b0d9
+[Kim Taesu] Fri May 2 19:23:29 2025 +0900 Create ReadMe.md 5711b5e
+
+[백창열]
+[bcy1235] Tue May 6 21:17:10 2025 +0900 log file upload b3b2a1f
+[bcy1235] Tue May 6 01:45:20 2025 +0900 usecase diagram 및 usecase description 작성 f0f6d1d
+[tasu1052] Sun May 4 21:21:15 2025 +0900 Merge pull request #6 from tasu1052/meeting ecc63b2
+[yumzen] Sun May 4 21:04:38 2025 +0900 requirement list 작성 318bcf5
+[Kim Taesu] Sun May 4 20:46:41 2025 +0900 Create UseCase Descriptions.md 243855d
+[tasu1052] Sun May 4 20:25:09 2025 +0900 Merge pull request #5 from tasu1052/oo-nyongs 4ed3458
+[oo-nyongs] Sun May 4 03:39:07 2025 +0900 Update ReadMe.md cbd5b1d
+[Kim Taesu] Fri May 2 21:30:16 2025 +0900 Merge branch 'main' of https://github.com/tasu1052/-USECASE- 2f9c704
+[Kim Taesu] Fri May 2 21:29:25 2025 +0900 Update ReadMe.md 978d500
+[Jieun Yeom] Fri May 2 20:06:30 2025 +0900 Create pull_request_template.md bc4b0d9
+[Kim Taesu] Fri May 2 19:23:29 2025 +0900 Create ReadMe.md 5711b5e
+
+[장윤영]
+[oo-nyongs] Tue May 6 20:54:10 2025 +0900 Create log_output.txt 93c5236
+[oo-nyongs] Tue May 6 05:09:57 2025 +0900 Update UseCase Descriptions.md bf1ff3c
+[tasu1052] Sun May 4 21:21:15 2025 +0900 Merge pull request #6 from tasu1052/meeting ecc63b2
+[yumzen] Sun May 4 21:04:38 2025 +0900 requirement list 작성 318bcf5
+[Kim Taesu] Sun May 4 20:46:41 2025 +0900 Create UseCase Descriptions.md 243855d
+[tasu1052] Sun May 4 20:25:09 2025 +0900 Merge pull request #5 from tasu1052/oo-nyongs 4ed3458
+[oo-nyongs] Sun May 4 03:39:07 2025 +0900 Update ReadMe.md cbd5b1d
+[Kim Taesu] Fri May 2 21:30:16 2025 +0900 Merge branch 'main' of https://github.com/tasu1052/-USECASE- 2f9c704
+[Kim Taesu] Fri May 2 21:29:25 2025 +0900 Update ReadMe.md 978d500
+[Jieun Yeom] Fri May 2 20:06:30 2025 +0900 Create pull_request_template.md bc4b0d9
+[Kim Taesu] Fri May 2 19:23:29 2025 +0900 Create ReadMe.md 5711b5e
+
+[염지은]
+[yumzen] Tue May 6 02:18:55 2025 +0900 use case diagram 작성 96e8e27
+[yumzen] Tue May 6 02:18:17 2025 +0900 use case description 작성 e860d9c
+[yumzen] Tue May 6 01:03:17 2025 +0900 Merge branch 'main' of https://github.com/tasu1052/-USECASE- into yumzen 8cbff53
+[tasu1052] Sun May 4 21:21:15 2025 +0900 Merge pull request #6 from tasu1052/meeting ecc63b2
+[yumzen] Sun May 4 21:04:38 2025 +0900 requirement list 작성 318bcf5
+[Kim Taesu] Sun May 4 20:46:41 2025 +0900 Create UseCase Descriptions.md 243855d
+[tasu1052] Sun May 4 20:25:09 2025 +0900 Merge pull request #5 from tasu1052/oo-nyongs 4ed3458
+[oo-nyongs] Sun May 4 03:39:07 2025 +0900 Update ReadMe.md cbd5b1d
+[yumzen] Sat May 3 17:40:50 2025 +0900 Merge branch 'main' of https://github.com/tasu1052/-USECASE- into yumzen c479f5a
+[yumzen] Sat May 3 17:38:53 2025 +0900 requirement list 작성 84354c9
+[Kim Taesu] Fri May 2 21:30:16 2025 +0900 Merge branch 'main' of https://github.com/tasu1052/-USECASE- 2f9c704
+[Kim Taesu] Fri May 2 21:29:25 2025 +0900 Update ReadMe.md 978d500
+[Jieun Yeom] Fri May 2 20:06:30 2025 +0900 Create pull_request_template.md bc4b0d9
+[Kim Taesu] Fri May 2 19:23:29 2025 +0900 Create ReadMe.md 5711b5e
+
